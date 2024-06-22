@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21fb6027-db22-444c-b64f-5519f9608f89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_4/Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_4/data/student_performance_large.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_4/main.spl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/data/01  Handlining Duplicate Data_orders.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/data/01 Handlining Duplicate Data_adult.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/data/02 Handling Irrelevant Data_titanic_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/data/03 Handling Structural Error_titanic_train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/data/04 Handling Missing Data using Python_Saless.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" afterDir="false" />
+    <list default="true" id="21fb6027-db22-444c-b64f-5519f9608f89" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HousePrice.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/houses.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vgsales.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/weight.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_5/Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week_5/Notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -211,12 +196,36 @@
       <workItem from="1717822585327" duration="5846000" />
       <workItem from="1718423004479" duration="11774000" />
       <workItem from="1718442034321" duration="179000" />
-      <workItem from="1719028185533" duration="2733000" />
+      <workItem from="1719028185533" duration="6777000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1719031559299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719031559299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scientificProject$scientificProject.coverage" NAME="scientificProject Coverage Results" MODIFIED="1717823905206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
