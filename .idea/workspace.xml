@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21fb6027-db22-444c-b64f-5519f9608f89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week_4/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_4/data/student_performance_large.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_4/main.spl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/data/01  Handlining Duplicate Data_orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/data/01 Handlining Duplicate Data_adult.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/data/02 Handling Irrelevant Data_titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/data/03 Handling Structural Error_titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/data/04 Handling Missing Data using Python_Saless.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HousePrice.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/houses.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/music.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vgsales.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weight.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -45,10 +64,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.iris.executor&quot;: &quot;Run&quot;,
     &quot;Python.scientificProject.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/shan/Desktop/scientificProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shan/Desktop/Extra/Introduction-to-Machine-Learning/Week_4/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,13 +81,16 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_4/data" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_5/examples" />
+      <recent name="$PROJECT_DIR$/Week_5/data" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main.iris">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="scientificProject" />
       <option name="ENV_FILES" value="" />
@@ -90,11 +114,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scientificProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_3/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.iris" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scientificProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_3/main.iris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scientificProject" type="PythonConfigurationType" factoryName="Python">
       <module name="scientificProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -110,12 +180,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main.iris" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
-        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -133,6 +209,9 @@
       <workItem from="1717817653802" duration="1768000" />
       <workItem from="1717820134012" duration="1485000" />
       <workItem from="1717822585327" duration="5846000" />
+      <workItem from="1718423004479" duration="11774000" />
+      <workItem from="1718442034321" duration="179000" />
+      <workItem from="1719028185533" duration="2733000" />
     </task>
     <servers />
   </component>
