@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21fb6027-db22-444c-b64f-5519f9608f89" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Week_5/examples/Example 3.ipynb" afterDir="false" />
+    <list default="true" id="21fb6027-db22-444c-b64f-5519f9608f89" name="Changes" comment="data cleaning and manipulation">
+      <change afterPath="$PROJECT_DIR$/Week_6/Exercise.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/Handling Missing Values Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/01  Handlining Duplicate Data_orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/01 Handlining Duplicate Data_adult.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/02 Handling Irrelevant Data_titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/03 Handling Structural Error_titanic_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/04 Handling Missing Data using Python_Saless.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/data/04 Handling Missing Data using Python_Saless.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_6/handling-missing-data.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_7/Exercise 2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_7/Notebook 2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_7/Notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_7/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_7/data/housing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_5/Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week_5/Notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week_5/examples/Example 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_5/Data Handling Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week_5/Data Handling Notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +51,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lakshan-Chamoditha-Perera&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lakshan-Chamoditha-Perera/Introduction-to-Machine-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;09fc33d8-6144-4688-8a09-92d5a52dbe6f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2hGwN5E1RlgIQ93pjMTO1eLu7QD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.iris.executor&quot;: &quot;Run&quot;,
     &quot;Python.scientificProject.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/shan/Desktop/Extra/Introduction-to-Machine-Learning/Week_4/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shan/Desktop/Extra/Introduction-to-Machine-Learning/Week_6&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,6 +94,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_6" />
       <recent name="$PROJECT_DIR$/Week_4/data" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -127,6 +156,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_3" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -175,8 +207,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
-        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -196,7 +228,11 @@
       <workItem from="1717822585327" duration="5846000" />
       <workItem from="1718423004479" duration="11774000" />
       <workItem from="1718442034321" duration="179000" />
-      <workItem from="1719028185533" duration="6777000" />
+      <workItem from="1719028185533" duration="10371000" />
+      <workItem from="1719632474936" duration="12177000" />
+      <workItem from="1720756747982" duration="29000" />
+      <workItem from="1720842159325" duration="10491000" />
+      <workItem from="1720858648304" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -206,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719031559299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="data cleaning and manipulation">
+      <option name="closed" value="true" />
+      <created>1719035813918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719035813918</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,8 +268,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="data cleaning and manipulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="data cleaning and manipulation" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scientificProject$scientificProject.coverage" NAME="scientificProject Coverage Results" MODIFIED="1717823905206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
